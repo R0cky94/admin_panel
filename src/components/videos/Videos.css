@@ -1,0 +1,24 @@
+.audioFileDiv{
+    margin: 5px;
+    padding: 5px;
+    justify-content:space-evenly ;
+}
+.upLoadButtonStyle{
+    background-color: #6a1b9a;
+    border: none;
+    height: 30px;
+    color: white;
+    width: 100px;
+}
+.inputAudioFileStyle{
+    border: none;
+    width: 100px;
+    margin-left: 5px;
+}
+.audioTitle{
+    font-size: large;
+}
+.apple{
+  width: max-content;
+    height: max-content;
+}
